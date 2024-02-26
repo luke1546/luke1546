@@ -1,9 +1,8 @@
 <div align="center"> 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=0&height=300&section=header&text=luke1546&fontSize=70"></p>
 
-  
-                                          Skill
-  
+
+Skill
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
