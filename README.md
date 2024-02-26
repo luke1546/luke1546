@@ -19,7 +19,7 @@
 
 <br/><br/><br/>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luke1546&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estuma&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luke1546&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke1546&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br/>
@@ -34,7 +34,7 @@
 
 
 <!--
-**estuma/estuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**luke1546/luke1546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
