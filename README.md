@@ -1,20 +1,18 @@
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/luke1546" />
-  </a>
-</div>
+<div align="center"> 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/luke1546"/>
+</a>
 
-<br>
-<br>
+
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luke1546&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke1546&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<br>
-
+<br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luke1546)](https://solved.ac/luke1546/) 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=luke1546&theme=warm)
+</div>
 
 
 
