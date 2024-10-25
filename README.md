@@ -1,6 +1,10 @@
 <div align="center"> 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/luke1546"/>
+<img
+  src="https://render.gitanimals.org/farms/luke1546"
+  width="600"
+  height="300"
+/>
 </a>
 
 
