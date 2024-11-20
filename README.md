@@ -1,10 +1,10 @@
 # luke1546 (이호성) 👋
 
 <a href="https://velog.io/@luke1546/posts" target="blank">
-    <img align="center" src="./images/velog.png" alt="velog" height="30" width="30" />
+    <img align="center" src="./images/velog.png" alt="velog" height="45" width="45" />
 </a>
 <a href="https://solved.ac/profile/luke1546" target="blank">
-    <img align="center" src="./images/baekjoon.png" alt="baekjoon" height="30" width="30" />
+    <img align="center" src="./images/baekjoon.png" alt="baekjoon" height="45" width="45" />
 </a>
 
 <br>
