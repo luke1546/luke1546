@@ -11,14 +11,25 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
+<!-- <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/luke1546"
   width="600"
   height="300"
 />
 </a>
+-->
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/luke1546?pet-id=637529950842089265"
+    width="400"
+    height="200"
+  />
+</a>
+
+    
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luke1546&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke1546&layout=compact&theme=buefy&hide_border=true" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
